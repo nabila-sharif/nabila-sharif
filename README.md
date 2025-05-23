@@ -22,6 +22,8 @@ I'm a passionate **beginner programmer** who’s exploring the world of **coding
 - 🧩 I enjoy solving logic puzzles and playing with code challenges
 - ☕ Fuelled by coffee and curiosity
 
+
+Thanks for visiting my profile! Let’s connect and grow together 🚀
 <!---
 nabila-sharif/nabila-sharif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
