@@ -13,7 +13,7 @@ I'm a passionate **beginner programmer** who’s exploring the world of **coding
   - Git & GitHub for version control
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
--  [📧 Email me](mailto:your-nabilasharif321@gmail.com)  
+-  [📧 Email me](mailto:nabilasharif321@gmail.com)  
 
 ## 📌 Fun Facts
 
