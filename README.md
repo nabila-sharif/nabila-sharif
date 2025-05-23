@@ -14,7 +14,7 @@ I'm a passionate **beginner programmer** who’s exploring the world of **coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 -  [📧 Email me](mailto:nabilasharif321@gmail.com)  
-
+ [💼 LinkedIn (https://www.linkedin.com/in/nabila-sharif)](#)
 ## 📌 Fun Facts
 
 - 😄 Pronouns: She/Her
